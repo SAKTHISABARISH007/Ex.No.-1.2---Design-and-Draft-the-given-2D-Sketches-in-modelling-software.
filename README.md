@@ -1,3 +1,4 @@
+[exp-1.2 views.pdf](https://github.com/user-attachments/files/23027164/exp-1.2.views.pdf)
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
